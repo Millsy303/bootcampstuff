@@ -1,0 +1,30 @@
+body  {
+  font-family: Raleway;
+  padding-top: 70px;
+  background-color: #D8D8DA;
+}
+
+form  {
+  margin-bottom: 5px;
+}
+
+.jumbotron  {
+  text-align: center;
+  background-color: #996662;
+}
+
+iframe  {
+  width: 50%;
+}
+
+#how-it-works {
+  text-align: center;
+}
+
+.card-body  {
+  text-align: center;
+}
+
+#features {
+  margin-left: 30%;
+}
